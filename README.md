@@ -16,7 +16,9 @@
 apt update 
 apt upgrade 
 pkg install git 
+pkg install pip
 apt install git
+pip install colorama
 pkg install python3
 Далее устанавливаем саму утилиту - git clone https://github.com/Rax0Savage/DiscordRaid-Resek. 
 Для запуска утилиты пишем cd DiscordRaid-Resek ; python3 fucker.py
