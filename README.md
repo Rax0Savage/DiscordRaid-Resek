@@ -16,6 +16,7 @@
 apt update 
 apt upgrade 
 pkg install git 
+apt install git
 pkg install python3
 Далее устанавливаем саму утилиту - git clone https://github.com/Rax0Savage/DicordRaid-Resek. 
 Для запуска утилиты пишем cd DiscordRaid-Resek ; python3 fucker.py
