@@ -4,9 +4,19 @@
 
 УСТАНОВКА:
 
-Установка Windows - Качаем файлы и распаковываем их на рабочий стол. В интернете ищем прокси листы и загружаем их в папку data с названием proxies.txt. Далее покупаем или ищем дискорд токены и вставляем их в папку data с названием tokens.txt. Устанавливаем Python - https://www.python.org/downloads/release/python-3110/. После чего запускаем файл fucker.py и приступаем к рейдам)
+Установка Windows - Качаем файлы и распаковываем их на рабочий стол. 
+В интернете ищем прокси листы и загружаем их в папку data с названием proxies.txt. 
+Далее покупаем или ищем дискорд токены и вставляем их в папку data с названием tokens.txt. 
+Устанавливаем Python - https://www.python.org/downloads/release/python-3110/
+После чего запускаем файл fucker.py и приступаем к рейдам)
 
-Установка Android (Termux) - Качаем Termux и вводим следующие команды - apt update ; apt upgrade ; pkg install git ; pkg install python3. Далее устанавливаем саму утилиту - git clone https://github.com/Rax0Savage/DicordRaid-Resek. Для запуска утилиты пишем cd DiscordRaid-Resek ; python3 fucker.py
+Установка Android (Termux) - Качаем Termux и вводим следующие команды : 
+apt update 
+apt upgrade 
+pkg install git 
+pkg install python3
+Далее устанавливаем саму утилиту - git clone https://github.com/Rax0Savage/DicordRaid-Resek. 
+Для запуска утилиты пишем cd DiscordRaid-Resek ; python3 fucker.py
 
 ФУНКЦИОНАЛ:
 1 - Присоеденение ботов на сервер
