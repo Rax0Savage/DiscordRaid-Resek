@@ -1,7 +1,7 @@
-pkg install wget
-pkg install php
-pkg install python
-pkg install python2
+apt install wget
+apt install php
+apt install python
+apt install python2
 pip install requests
 pip install bs4
 pip install colorama
